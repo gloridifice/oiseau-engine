@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/content/src/glTF-Sample-Models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/content/src/sponza" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/EGL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/SPIRV-Reflect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/SPIRV-Reflect/third_party/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/fast_obj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/glslang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/implot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/ktx-software" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/ldrutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/ldrutils/tests/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/meshoptimizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/minilog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/openxr-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/stb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/taskflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/tracy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/vma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightweightvk/third-party/deps/src/volk" vcs="Git" />
+  </component>
+</project>
