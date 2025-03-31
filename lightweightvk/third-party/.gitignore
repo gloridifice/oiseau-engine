@@ -1,4 +1,6 @@
 content/
 deps/
+!deps/patches
+!content/patches
 .bootstrap-content.json
 .bootstrap-deps.json
